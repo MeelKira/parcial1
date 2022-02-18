@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginJeracakees</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Todo">TODO</string>
+</resources>
